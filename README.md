@@ -99,7 +99,7 @@ All conversations are stored in SQLite database and can be viewed from:
 /history
 ```
 
-## 🎯 Current Version
+## 🎯 Current Version 
 
 ### AI ChatBot v2.0
 
