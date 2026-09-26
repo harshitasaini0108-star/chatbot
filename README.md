@@ -1,8 +1,9 @@
   # 🤖 AI ChatBot 
 
 An AI-powered chatbot built with Flask, Google Gemini AI, SQLite, HTML, CSS, and JavaScript.
-
-## 🚀 Features
+  🚀 Live Demo  
+       http://127.0.0.1:5000
+  # 🚀 Features
 
 - 🤖 Gemini AI Integration
 - 💬 Real-time Chat Interface
